@@ -1,0 +1,56 @@
+[
+    {
+        "id": 101,
+        "title": "Aryan Look (Sunglass Niche Site)",
+        "li1": "Product details are visualized from the database",
+        "li2": "The client has to log in to purchase items.",
+        "li3": "A dashboard access variation for admin and client based on role",
+        "li4": "Client can put reviews For Every Products",
+        "li5": "Admin can  manage and add a new Products using dashboard",
+        "li6": "Client can show her ordered product using dashboard",
+        "imgLink": "https://i.ibb.co/pJ9QprD/as12.png",
+        "liveUrl": "https://assignment-12th-aryan-look-about-sunglass-by-monzu.netlify.app/",
+        "serverCodeUrl": "https://github.com/monzu25/Niche-Site-Sunglass",
+        "clientCodeUrls": "https://github.com/monzu25/Niche-Sunglash-Client--Side"
+    },
+    {
+        "id": 102,
+        "title": "Health Care",
+        "li1": "There Are Show Core Facilities Of A Medica Services",
+        "li2": "I have Visualize Doctors Profile",
+        "li3": "HomePage have A Header, Slider, Services, Footer.",
+        "li4": "Every Medical service has a button through this visitor can see details view",
+        "li5": "There show expert doctor profile page",
+        "imgLink": "https://i.ibb.co/55Shvb3/ass10-1.png",
+        "liveUrl": "https://assignment-10th-healthcare-by-monzu.netlify.app/",
+        "serverCodeUrl": "https://github.com/monzu25/health-care",
+        "clientCodeUrls": "https://github.com/monzu25/health-care"
+    },
+    {
+        "id": 103,
+        "title": "Global Tour",
+        "li1": "Service details data are fetched from the database.",
+        "li2": "The client has to log in to purchase items.",
+        "li3": "There different menus for for product managment",
+        "li4": "All ordered Data Shows in data table",
+        "li5": "Admin can  manage and add a new Products using Mange Products Menu",
+        "li6": "Client can show her ordered product using My Orders Manu",
+        "imgLink": "https://i.ibb.co/GJCdDDg/Ass11.png",
+        "liveUrl": "https://assignment-11th-global-tour.netlify.app/",
+        "serverCodeUrl": "https://github.com/monzu25/Global-Travel",
+        "clientCodeUrls": "https://github.com/monzu25/Global-travel-client"
+    },
+    {
+        "id": 104,
+        "title": "Body Shap (Gym Site)",
+        "li1": "The website make With Pure javascript, HTMl, CSS",
+        "li2": "I have showed some important Features on The site",
+        "li3": "And Also I have make a Price/Package section ",
+        "li4": "There showed some Gym features",
+        "li5": "Some Gym trainesr Profile are visualized",
+        "imgLink": "https://i.ibb.co/51R0V92/html-css-responsive-gym-by-monzu-netlify-app.png",
+        "liveUrl": "https://html-css-responsive-gym-by-monzu.netlify.app/",
+        "serverCodeUrl": "https://github.com/monzu25/Body-shape-Gym-Site-",
+        "clientCodeUrls": "https://github.com/monzu25/Body-shape-Gym-Site-"
+    }
+]

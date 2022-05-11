@@ -1,0 +1,15 @@
+.projects-button {
+    background-color: #10284C;
+    color: #fff;
+    padding: 5px 15px;
+    margin: 5px 10px;
+    border-radius: 20px;
+    float: right;
+    border: none;
+
+}
+
+.projects-button:hover {
+    background-color: #D35400;
+    color: #fff;
+}

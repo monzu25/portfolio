@@ -1,0 +1,26 @@
+/* html,
+body {
+  z-index: -1;
+  margin: 0px;
+  padding: 0px;
+  color: #fff;
+  height: 100%;
+  background-color: #021b39;
+  font-family: "Baloo Da 2", cursive;
+} */
+
+/* .App-particles__container {
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  z-index: 0;
+}
+.App-particles__container canvas {
+  transition: 0.2s all ease-in-out;
+  z-index: 0;
+  height: 100%;
+  width: 100%;
+} */
